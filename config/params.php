@@ -1,16 +1,16 @@
 <?php
 
 return [
-    'admin_email' => 'm9794514@bk.ru',
+    'admin_email' => 'admin@mail.com',
     'site_name' => 'FaberLady',
     'pagination' => 3,
     
     'smtp_host' => 'smtp.yandex.ru',
     'smtp_auth' => true,
     'smtp_port' => '465',
-    'smtp_username' => 'waterland.water@yandex.ru',
-    'smtp_password' => '3]>&5"C!',
+    'smtp_username' => '',
+    'smtp_password' => '',
     'smtp_secure' => 'ssl',
-    'smtp_from_email' => 'waterland.water@yandex.ru',
+    'smtp_from_email' => '',
 ];
 
