@@ -1,0 +1,32 @@
+a:2:{s:4:"data";s:1203:"<li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" href="category/uhod" data-bs-toggle="dropdown">Уход</a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li class="nav-item ">
+    <a class="nav-link " href="category/kozha" >Кожа</a>
+    </li>
+        </ul>
+    </li>
+<li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" href="category/makiyazh" data-bs-toggle="dropdown">Макияж</a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li class="nav-item ">
+    <a class="nav-link " href="category/lizo" >Лицо</a>
+    </li>
+<li class="nav-item ">
+    <a class="nav-link " href="category/nogti" >Ногти</a>
+    </li>
+<li class="nav-item ">
+    <a class="nav-link " href="category/guby" >Губы</a>
+    </li>
+        </ul>
+    </li>
+<li class="nav-item ">
+    <a class="nav-link " href="category/parfumeriya" >Парфюмерия</a>
+    </li>
+<li class="nav-item ">
+    <a class="nav-link " href="category/moda" >Мода</a>
+    </li>
+<li class="nav-item ">
+    <a class="nav-link " href="category/zdorovye" >Здоровье</a>
+    </li>
+";s:8:"end_time";i:1679254271;}

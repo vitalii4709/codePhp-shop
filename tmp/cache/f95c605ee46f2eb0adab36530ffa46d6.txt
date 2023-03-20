@@ -1,0 +1,35 @@
+a:2:{s:4:"data";s:1249:"<li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" href="category/uhod" data-bs-toggle="dropdown">Care</a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li class="nav-item ">
+    <a class="nav-link " href="category/kozha" >Leather</a>
+    </li>
+        </ul>
+    </li>
+<li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" href="category/makiyazh" data-bs-toggle="dropdown">Makeup</a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li class="nav-item ">
+    <a class="nav-link " href="category/lizo" >Face</a>
+    </li>
+<li class="nav-item ">
+    <a class="nav-link " href="category/nogti" >Nails</a>
+    </li>
+<li class="nav-item ">
+    <a class="nav-link " href="category/guby" >Lips</a>
+    </li>
+        </ul>
+    </li>
+<li class="nav-item ">
+    <a class="nav-link " href="category/parfumeriya" >Perfumery</a>
+    </li>
+<li class="nav-item ">
+    <a class="nav-link " href="category/moda" >Fashion</a>
+    </li>
+<li class="nav-item ">
+    <a class="nav-link " href="category/zdorovye" >Health</a>
+    </li>
+<li class="nav-item ">
+    <a class="nav-link " href="category/test" >Test</a>
+    </li>
+";s:8:"end_time";i:1679230372;}
